@@ -1,4 +1,4 @@
-# RISC-V Single-Cycle
+## RISC-V Single-Cycle
 
 This is the starter/specification repository for this course's single-cycle RISC-V processor project. Each student **creates their own repository from this template** (**Use this template** → **Create a new repository**) and independently builds their **own complete single-cycle RISC-V processor**, module by module.
 
